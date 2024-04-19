@@ -1,0 +1,4 @@
+bread 1 slices 80
+cheese 1 ounces 94
+apple 1 medium 95
+banana 1 medium 105

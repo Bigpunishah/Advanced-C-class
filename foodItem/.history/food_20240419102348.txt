@@ -1,0 +1,12 @@
+bread 1 slices 80
+cheese 1 ounces 94
+apple 1 medium 95
+banana 1 medium 105
+yogurt 1 cup 150
+salmon 4 ounces 233
+spinach 1 cup 7
+chicken breast 4 ounces 187
+rice 1 cup cooked 205
+pasta 1 cup cooked 221
+carrot 1 medium 25
+broccoli 1 cup chopped 55

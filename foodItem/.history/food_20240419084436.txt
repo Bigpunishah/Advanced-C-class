@@ -1,0 +1,4 @@
+name, qty, measurement, calories
+bread 1 slices 80
+cheese, 1, ounces, 94
+
